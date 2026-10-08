@@ -22,6 +22,3 @@ Cara update deployment Vercel yang sudah ada:
 1. Ganti file index.html dan style.css pada folder project lokal dengan versi ini.
 2. Pastikan folder images/foto-wildan.jpg ikut ada.
 3. Di terminal project jalankan: npx vercel --prod
-
-Catatan:
-- Ganti placeholder Email dan GitHub sebelum pengumpulan jika diperlukan.
