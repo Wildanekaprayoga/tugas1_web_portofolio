@@ -1,4 +1,4 @@
-PORTFOLIO WILDAN — SIGNATURE EDITION
+PORTFOLIO WILDAN 
 
 Isi folder:
 - index.html
